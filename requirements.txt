@@ -1,0 +1,7 @@
+This is chat application.
+Features:
+Emoji Support
+Type option
+Colors
+Vibrant
+
